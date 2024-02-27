@@ -22,4 +22,4 @@ Passo 3:
 
 
 Este conteúdo abordado no curso mostrou de como é vasto a capacidade de transformar imagens em dados, podendo facilitar a análise e extração de conjuntos de dados visuais.
-Essa tecnologias devem ser implementadas com medidas de segurança e privacidade complexas para proteger os dados, e é fundamental garantir a transparência e a responsabilidade na utilização destes tipos de recursos.
+Essa tecnologias devem ser implementadas com mecanismos que garantem segurança e privacidade para proteger os dados, e é fundamental a transparência e a responsabilidade na utilização destes tipos de recursos.
